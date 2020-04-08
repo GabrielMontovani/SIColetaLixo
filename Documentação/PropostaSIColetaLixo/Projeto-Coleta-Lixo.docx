@@ -1,0 +1,11 @@
+Neste projeto o modelo Incremental atende melhor a necessidade visto que o cliente quer soluções entregues de imediato e já tem uma ferramenta e precisa ser melhorada, aceita que seja feito melhoras com o decorrer da evolução do software, podendo ser dividido em frentes de trabalho com escopo em paralelo para ter uma função integrada no final e atende a necessidade do cliente de começar a entregar partes do projeto.
+
+1.	Localização dos Caminhões (GPS)
+Localização e acompanhamento das rotas realizadas pelos caminhões em tempo real, mantendo contato com uma central de operações na empresa.
+2.	Tráfego de veículos (Rota Percorrida)
+Status da rota percorrida, trânsito, empecilhos por causa do tamanho caminhão de lixo nas ruas, se tem veículos atrapalham a coleta, locais sem acesso etc.
+3.	Tonelagem de Lixo (Por Rota)
+
+Quantidade de lixo recolhido, se recolheu tudo, se precisa retornar caminhão para recolher o restante.
+
+4.	Traçar e limitar rotas, peso, horários, para que seja construída rotas eficazes.
